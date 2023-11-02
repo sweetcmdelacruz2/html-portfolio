@@ -1,0 +1,43 @@
+.header {
+    background-color:beige;
+    padding:30px;
+    max-width: 95%;
+}
+
+.item {
+    font-family: Arial;
+    display: inline-block;
+    width: 75%;
+    padding: 20px;
+}
+
+.details {
+    font-family: Arial;
+    padding: 40px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Helvetica;
+}
+
+hr {
+    alignment: center;
+    width: 95%
+}
+
+.detailscolumn {
+    font-family: Arial;
+    display: inline-flex;
+    padding: 40px;
+}
+
+.bottom{
+    font-family: Arial;
+    margin-top: 25px;
+    text-align: center;
+  }
+
+.aboutme {
+    display: inline-block;
+    margin-left: 20px;
+}
